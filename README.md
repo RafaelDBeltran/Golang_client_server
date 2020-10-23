@@ -1,7 +1,7 @@
 # Trababalho de Segurança de Sistemas: Golang_client_and_server
 Membros: Rafael Beltran e Daniel Temp
 
-    Intruções de execução:
+    Instruções de execução:
     Opção 1:
         Executar manualmente servidor e cliente:
             1º Para executar o servidor
